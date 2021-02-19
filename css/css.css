@@ -1,0 +1,85 @@
+body{
+  background: blueviolet;
+}
+
+#P1{
+  font-size: 25px;
+}
+
+.Happy{
+    padding: 5px;
+    color: white;
+}
+
+#targeta{
+    width: 250px;
+    text-align: center;
+   box-shadow: 0 4px 4px rgba(0, 0, 0, 0.2),0 6px 20px;
+}
+
+.numero{
+background-color: rgb(100, 32, 32);
+color: wheat;
+padding: 10px;
+font-size: 50px;
+
+}
+
+.titulo{
+padding: 5px;
+background: cornsilk;
+font-size: 25px;
+}
+
+#Mensaje1{
+  font-size: 20px;
+  color: cornsilk;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.2),0 6px 20px;
+  
+}
+
+.contenedor {
+  padding: 25px;
+  border-radius: 5px;
+  width: 400px;
+  height: 490px;
+  background: rgb(249, 249, 252);
+ 
+}
+
+#Alrededor img{
+  float: left;
+}
+
+#Final{
+ 
+padding: 30px;
+background-color: rgb(187, 175, 187);
+border: 5px solid rgb(94, 92, 92);
+width: 340px;
+height: 30px;
+box-shadow: 0 4px 4px rgba(0, 0, 0, 0.2),0 6px 20px;
+font-style: italic;
+font-size: 25px;
+text-align: center;
+}
+
+#b1{
+  border-radius: 10px;
+  border: 2px solid rgb(252, 250, 248);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.2),0 6px 20px;
+
+}
+
+#Nombres{
+  color: blue;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.2),0 6px 20px;
+  
+}
+
+#Programador{
+ border-radius: 30px;
+ box-shadow: 0 4px 4px rgba(0, 0, 0, 0.2),0 6px 20px;
+  width: 220px;
+  
+}
